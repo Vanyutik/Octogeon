@@ -1,2 +1,6 @@
 # ![](https://github.com/Vanyutik/Octogeon/raw/main/desktop/ui/logo.png)
-2D roguelike indie game,about octopuses
+# Octogeon
+2D roguelike indie game,about octopuses.
+___
+*Under early development as of September 2022*
+
