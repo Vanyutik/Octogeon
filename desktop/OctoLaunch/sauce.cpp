@@ -3,8 +3,8 @@ using namespace sf;
 
 int main()
 {
+	int a;
 	sf::RenderWindow window(sf::VideoMode(1200, 600), "Octogeon");
-
 
 	Texture Player;
 	Player.loadFromFile("player.png");
